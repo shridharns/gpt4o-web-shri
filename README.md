@@ -1,8 +1,8 @@
-# GPT4O Web Implementation
+# GPT-4o Web Implementation
 
 ## Overview
 
-This project is an implementation of the GPT 4o model, designed to provide a web interface for interacting with GPT-4-based multi-modal interaction. This project uses AWS Poly for its voice parts. The project leverages modern web development tools and practices, with a focus on scalability, maintainability, and user experience.
+This project is an implementation of the GPT-4o model, designed to provide a web interface for interacting with GPT-4o based multi-modal interaction. This project uses AWS Poly for its voice parts. The project leverages modern web development tools and practices, with a focus on scalability, maintainability, and user experience.
 
 ## Features
 
